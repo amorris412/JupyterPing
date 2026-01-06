@@ -1,4 +1,4 @@
-# Jupyter Notebook Desktop Alerts
+# JupyterPing
 
 Get prominent desktop-level alerts when your Jupyter notebooks complete or encounter errors!
 
